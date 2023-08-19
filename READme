@@ -7,3 +7,10 @@ open the new terminal
 cd client
 npm i 
 hit npm start
+
+
+/////////////////////////////
+
+create .env file in the Server to add the varaibles
+DB_USERNAME
+DB_PASSWORD
