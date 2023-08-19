@@ -1,0 +1,9 @@
+clone the repo link 
+cd Server
+Hit npm i
+Hit npm start
+//////////////////////////////
+open the new terminal
+cd client
+npm i 
+hit npm start
